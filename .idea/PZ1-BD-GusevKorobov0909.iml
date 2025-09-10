@@ -2,9 +2,7 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="jdk" jdkName="Python 3.9" jdkType="Python SDK" />
-    <orderEntry type="jdk" jdkName="Python 3.9 (7_ЛР_2_12_Коробов_Вертаев_12)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
